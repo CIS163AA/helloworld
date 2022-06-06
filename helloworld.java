@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class helloworld {
+public class hlloworld {
 
   public static void main(String[] args) {
 
